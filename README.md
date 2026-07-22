@@ -1,18 +1,17 @@
 # Abonelik Takipçisi
-Dijital aboneliklerinizi (Netflix, Spotify vb.) ekleyip düzenleyebileceğiniz basit bir React uygulaması.
+
+Günlük dijital aboneliklerinizi (Netflix, Spotify, Disney+ vb.) tek ekranda takip etmenizi sağlayan basit bir web uygulaması.
+
+Abonelik ekleyebilir, adını düzenleyebilir veya listeden silebilirsiniz. Arayüz sade tutulmuş; odak tamamen abonelik listesini yönetmekte.
+
 ## Teknolojiler
-React · Vite · Tailwind CSS
-## Kurulum
+
+- **React** — arayüz ve state yönetimi
+- **Vite** — hızlı geliştirme ortamı
+- **Tailwind CSS** — responsive tasarım
+
+## Çalıştırma
+
 ```bash
-git clone https://github.com/kullanici-adiniz/subscription-app.git
-cd subscription-app
 npm install
 npm run dev
-Uygulama http://localhost:5173 adresinde açılır.
-
-Komutlar
-npm run dev — Geliştirme sunucusu
-npm run build — Production build
-npm run preview — Build önizleme
-npm run lint — Lint kontrolü
-Veriler tarayıcı belleğinde tutulur; sayfa yenilenince sıfırlanır.
