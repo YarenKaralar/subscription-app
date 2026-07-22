@@ -10,7 +10,7 @@ npm install
 npm run dev
 Uygulama http://localhost:5173 adresinde açılır.
 
-## Komutlar
+Komutlar
 npm run dev — Geliştirme sunucusu
 npm run build — Production build
 npm run preview — Build önizleme
